@@ -1,2 +1,2 @@
 # basic-github-task
-Configuring to get notifications on slavk
+Configuring to get notifications on slack
